@@ -1,0 +1,22 @@
+{
+  "name": "naics-2012",
+  "description": "A NAICS 2012 dataset module",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rclosner/naics-2012.git"
+  },
+  "author": "Ryan Closner",
+  "main": "lib/naics-2012.js",
+  "scripts": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {
+    "reverse-index": "0.0.x"
+  },
+  "dependencies": {}
+}
