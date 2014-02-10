@@ -14,6 +14,9 @@ npm install naics-2012
 ```javascript
 NAICS = require('naics-2012');
 
+NAICS.all()
+//=> [ { code: 926150 }... ]
+
 NAICS.search('coffee');
 //=> [ { code: 926150 }... ]
 

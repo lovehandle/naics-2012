@@ -7,7 +7,7 @@
     "url": "git://github.com/rclosner/naics-2012.git"
   },
   "author": "Ryan Closner",
-  "main": "lib/naics-2012.js",
+  "main": "lib/model.js",
   "scripts": {},
   "directories": {
     "lib": "lib"
