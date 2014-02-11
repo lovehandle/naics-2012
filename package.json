@@ -1,7 +1,7 @@
 {
   "name": "naics-2012",
   "description": "A NAICS 2012 dataset module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/rclosner/naics-2012.git"
